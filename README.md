@@ -1,12 +1,18 @@
-# React + Vite
+# 🍽️ Ra_Menu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ra_Menu is a full-stack web application for dynamic menu creation and management, ideal for restaurants or cafés looking to modernize how they handle menus, items, and categories.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🍔 Manage categories and menu items
+- ✍️ Admin dashboard for creating, editing, deleting
+- 📱 Mobile-first responsive design
+- 🔍 Search, filter, and sort menu items
+- 🌐 Backend API with full CRUD functionality
+- ⚙️ Built with Vite + React + TypeScript + Express
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📁 Folder Structure
